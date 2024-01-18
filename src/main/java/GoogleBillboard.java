@@ -23,7 +23,7 @@ public class GoogleBillboard {
 		System.out.println(ans);
 	}
 	
-	public boolean isPrime(double dNum) {   
+	public static boolean isPrime(double dNum) {   
 	    if (dNum < 2){
 	      return false;
 	    }else{
